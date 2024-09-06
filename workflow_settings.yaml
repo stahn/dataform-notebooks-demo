@@ -1,0 +1,7 @@
+defaultProject: general-ce
+defaultLocation: US
+defaultDataset: dataform_extreme_weather
+defaultAssertionDataset: dataform_extreme_weather_assertions
+dataformCoreVersion: 3.0.0
+defaultNotebookRuntimeOptions:
+  outputBucket: gs://dataform_extreme_weather
